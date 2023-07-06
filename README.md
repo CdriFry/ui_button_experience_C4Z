@@ -7,7 +7,7 @@ A library of Control4 Driver UI Button for Audio and Video
   <img src="./Icons Github/experience_1024_macx.png" alt="Mac Mini Icons" width="200"/>
 </p>
 
- - PS5 Driver - PS5-CC.c4z
+ - PS5 Driver - uibutton_ps5.c4z
 <p align="center">
   <img src="./Icons Github/experience_1024_ps5.png" alt="PS5 Icons" width="200"/>
 </p>
